@@ -61,7 +61,7 @@ Server response
 Updating the product
 
 <br>
-<img src="https://github.com/SandeepKiran0022/Product_Mgt_System/blob/master/screenshot/7-updating-product.PNG">
+<img src="https://github.com/SandeepKiran0022/Product_Mgt_System/blob/master/screenshot/7-updating the product.PNG">
 </br>
 
 
