@@ -1,6 +1,8 @@
 # Product_Mgt_System
 Open Api Spec for Product Mgt System
 
+Swagger.json has been uploaded for reference.
+
 About the System
 
 ->Define Products
