@@ -15,4 +15,6 @@ About the System
 
 
 
-![screenshot](2.png)
+<br>
+<img src="https://github.com/SandeepKiran0022/Product_Mgt_System/blob/master/screenshot/2.PNG">
+</br>
